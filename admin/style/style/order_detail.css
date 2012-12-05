@@ -1,0 +1,115 @@
+.admin_table{
+	margin:0px;
+	min-width:846px;
+}
+
+.admin_header_row{
+	min-width:846px;
+}	
+
+.item_field{
+	width:120px;
+	text-align:center;
+}
+
+.price_field{
+	width:157px;
+	text-align:center;
+}
+
+.quantity_field{
+	width:100px;
+	text-align:center;
+}
+
+.details_field{
+	margin-left:140px;
+	margin-right:297px;
+	
+}
+
+#details_header{
+	text-align:center;
+}
+
+.item_image{
+	height:110px;
+	width:73px;
+	text-align:left;
+	clear:both;
+}
+
+.table_row{
+	clear:both;
+	height:130px;
+	font-family:"Helvetica";
+	font-size:12px;
+	color:#000000;
+	
+	border-bottom:1px solid #dddddd;
+	text-align:left;
+	
+	
+}
+
+.item_table_name{
+	
+	
+	
+	color:#333333;
+	
+	
+	margin-left:10px;
+	margin-top:20px;
+}
+
+.item_table_code{
+	text-align:left;
+	
+	
+	color:#999999;
+	margin-left:10px;
+	font-weight:normal;
+}
+
+.item_table_size{
+	
+	
+	
+	color:#999999;
+	margin-left:10px;
+	font-weight:normal;
+	
+}
+
+.item_table_currency{
+	
+	margin-top:37px;
+	
+}
+
+.item_table_price{
+	
+	margin-top:37px;
+	
+}
+
+.item_table_quantity{
+	color:#333333;
+	margin-top:37px;
+	
+}
+
+.price_text{
+	width:80px;
+	text-align:right;
+}
+
+.currency_text{
+
+}
+
+.subtotal_label{
+	text-align:left;
+	width:100px;
+}

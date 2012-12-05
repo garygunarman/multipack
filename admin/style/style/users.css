@@ -1,0 +1,41 @@
+.admin_header_row{
+	height:50px;
+	
+}
+.admin_header_selected{
+	height:41px;
+	
+}
+/*check 50, every field+20*/
+#no_header,.no_field{
+	width:30px;
+}
+
+#user_created_date_header,.user_created_date_field{
+	width:110px;
+}
+
+#user_first_name_header,.user_first_name_field{
+	width:110px;
+}
+
+#user_last_name_header,.user_last_name_field{
+	width:110px;
+}
+
+#last_transaction_date_header,.last_transaction_date_field{
+	width:110px;
+}
+
+#total_order_header,.total_order_field{
+	width:60px;
+	
+}
+
+
+
+
+#user_email_header,.user_email_field{
+	margin-left:492px;
+	margin-right:210px;
+}

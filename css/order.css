@@ -1,0 +1,232 @@
+/* Content */
+
+.maincontent {
+    border-top: 0; /* remove the grey border top of the content */
+}
+
+/* Order Progress */
+
+.progress {
+    color: #999;
+    padding: 0;
+    border: 0;
+    font-family: 'bell_gothic_std_lightregular';
+    font-size: 0.75em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.progress div{
+    text-align: center;
+    float: left;
+    width: 145px;
+    height: 25px;
+    line-height: 25px;
+    background: #eee;
+    border-bottom: 1px solid #ddd;
+}
+
+.progress div.current{
+    background: #000;
+    color: #fff;
+    border-bottom: 1px solid #333;
+}
+
+
+/* Order */
+
+.ordercontent {
+    margin-top: 30px;
+    min-height: 400px;
+}
+
+/* Bag */
+
+.head div {
+    float: left;
+}
+
+.bagtotallabel, /* from bag total row */
+.bagtotal /* from bag total row */ {
+    float: left;
+}
+
+.bagqty,
+.bagprice,
+.bagremove,
+.bagtotallabel, /* from bag total row */
+.bagtotal /* from bag total row */ {
+    padding-left: 20px;
+    text-align: right;
+    float: left;
+}
+
+.bagdetails {
+    width: 320px;
+    float: left;
+}
+
+.bagqty,
+.bagtotallabel /* from bag total row */ {
+    width: 95px;
+}
+
+.bagprice,
+.bagtotal /* from bag total row */ {
+    width: 140px;
+}
+
+.bagremove {
+    width: 110px;
+}
+
+/* Bag Item */
+
+#bagitem {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    font-size: 0.75em;
+}
+
+.bagimage,
+.bagdesc {
+    float: left;
+}
+
+.bagimage {
+    margin-right: 10px;
+}
+
+.bagdesc .bagname {
+    font-weight: bold;
+}
+
+.bagdesc .bagcolor,
+.bagdesc .bagsize {
+    color: #999;
+}
+
+#bagitem .bagqty,
+#bagitem .bagprice,
+#bagitem .bagremove {
+    margin-top: 10px;
+}
+
+#bagitem .currency,
+.bagtotalrow .currency /* from bag total row */ {
+    color: #999;
+    float: left;
+    margin-left: 30px;
+}
+
+#bagitem .price,
+.bagtotalrow .price /* from bag total row */ {
+    margin-left: 20px;
+}
+
+.bagqty select {
+    margin-bottom: 5px;
+}
+
+#bagitem .bagremove {
+    font-size: 0.875em;
+    color: #666;
+    width: 105px;
+}
+
+#bagitem .bagremove a {
+    color: #666;
+    text-decoration: none;
+}
+
+#bagitem .bagremove a:hover {
+    color: #cc0000;
+    text-decoration: underline;
+}
+
+/* Bag Total Row */
+
+.bagtotalrow {
+    padding-left: 320px; /* total width of head items */
+    padding-bottom: 10px;
+    font-size: 0.75em;
+    margin: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.bagtotallabel {
+    font-family: 'bell_gothic_std_lightbold';
+}
+
+.bagtotal .price{
+    font-weight: bold;
+}
+
+.bagtotalinfo {
+    float: right;
+    width: 120px;
+    font-style: italic;
+    font-size: 0.875em;
+    color: #999;
+    text-align: right;
+}
+
+#discount .price {
+    font-weight: normal;
+    color: #cc0000;
+}
+
+/* Bag Button Row */
+
+.bagbuttonrow {
+    margin-bottom: 20px;
+}
+
+.bagbuttonrow a {
+    float: right;
+    margin-right: 10px;
+}
+
+.bagbuttonrow button {
+    float: right;
+}
+
+
+/* Address */
+
+#deliveryaddress {
+    margin-bottom: 30px;
+}
+
+
+/* Review */
+
+#review .bagqty,
+#review .bagprice {
+    float: right;
+}
+
+#review a.edit {
+    font-family: 'bell_gothic_std_lightregular';
+    float: right;
+    color: #999;
+    text-decoration: none;
+    transition: color .25s;
+    -moz-transition: color .25s;
+    -webkit-transition: color .25s;
+    -o-transition: color .25s;
+}
+
+#review a.edit:hover {
+    color: #000;
+}
+
+#review fieldset div div {
+    width: 295px;
+    float: left;
+}
+
+fieldset#addressreview p {
+    font-size:.75em;
+    line-height: 24px;
+}

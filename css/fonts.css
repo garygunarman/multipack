@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'bell_gothic_std_blackregular';
+    src: url('../files/fonts/bellgothicstd-black-webfont.eot');
+    src: url('../files/fonts/bellgothicstd-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellgothicstd-black-webfont.woff') format('woff'),
+         url('../files/fonts/bellgothicstd-black-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellgothicstd-black-webfont.svg#bell_gothic_std_blackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bell_gothic_std_lightbold';
+    src: url('../files/fonts/bellgothicstd-bold-webfont.eot');
+    src: url('../files/fonts/bellgothicstd-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellgothicstd-bold-webfont.woff') format('woff'),
+         url('../files/fonts/bellgothicstd-bold-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellgothicstd-bold-webfont.svg#bell_gothic_std_lightbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bell_gothic_std_lightregular';
+    src: url('../files/fonts/bellgothicstd-light-webfont.eot');
+    src: url('../files/fonts/bellgothicstd-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellgothicstd-light-webfont.woff') format('woff'),
+         url('../files/fonts/bellgothicstd-light-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellgothicstd-light-webfont.svg#bell_gothic_std_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'bell_mt_stdbold';
+    src: url('../files/fonts/bellmtstd_bold-webfont.eot');
+    src: url('../files/fonts/bellmtstd_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellmtstd_bold-webfont.woff') format('woff'),
+         url('../files/fonts/bellmtstd_bold-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellmtstd_bold-webfont.svg#bell_mt_stdbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bell_mt_stdbold_italic';
+    src: url('../files/fonts/bellmtstd_bolditalic-webfont.eot');
+    src: url('../files/fonts/bellmtstd_bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellmtstd_bolditalic-webfont.woff') format('woff'),
+         url('../files/fonts/bellmtstd_bolditalic-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellmtstd_bolditalic-webfont.svg#bell_mt_stdbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bell_mt_stditalic';
+    src: url('../files/fonts/bellmtstd_italic-webfont.eot');
+    src: url('../files/fonts/bellmtstd_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellmtstd_italic-webfont.woff') format('woff'),
+         url('../files/fonts/bellmtstd_italic-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellmtstd_italic-webfont.svg#bell_mt_stditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'bell_mt_stdregular';
+    src: url('../files/fonts/bellmtstd_regular-webfont.eot');
+    src: url('../files/fonts/bellmtstd_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellmtstd_regular-webfont.woff') format('woff'),
+         url('../files/fonts/bellmtstd_regular-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellmtstd_regular-webfont.svg#bell_mt_stdregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bell_mt_std_semiboldregular';
+    src: url('../files/fonts/bellmtstd_semibold-webfont.eot');
+    src: url('../files/fonts/bellmtstd_semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellmtstd_semibold-webfont.woff') format('woff'),
+         url('../files/fonts/bellmtstd_semibold-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellmtstd_semibold-webfont.svg#bell_mt_std_semiboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bell_mt_std_semibolditalic';
+    src: url('../files/fonts/bellmtstd_semibolditalic-webfont.eot');
+    src: url('../files/fonts/bellmtstd_semibolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/bellmtstd_semibolditalic-webfont.woff') format('woff'),
+         url('../files/fonts/bellmtstd_semibolditalic-webfont.ttf') format('truetype'),
+         url('../files/fonts/bellmtstd_semibolditalic-webfont.svg#bell_mt_std_semibolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helveticaneuelt_std_thinRg';
+    src: url('../files/fonts/helveticaneueltstd-th-webfont.eot');
+    src: url('../files/fonts/helveticaneueltstd-th-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../files/fonts/helveticaneueltstd-th-webfont.woff') format('woff'),
+         url('../files/fonts/helveticaneueltstd-th-webfont.ttf') format('truetype'),
+         url('../files/fonts/helveticaneueltstd-th-webfont.svg#helveticaneuelt_std_thinRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,64 @@
+/*check 50, every field+20*/
+#no_header,.no_field{
+	width:30px;
+}
+
+#order_no_header,.order_no_field{
+	width:90px;
+}
+
+#date_header,.date_field{
+	width:110px;
+}
+
+#bank_header,.bank_field{
+	width:60px;
+}
+
+#shipping_no_header,.shipping_no_field{
+	width:100px;
+}
+
+#open_header{
+	
+	background-image:url("../../files/web_images/open_logo.png");
+	
+	
+}
+
+#confirmed_header{
+	
+	background-image:url("../../files/web_images/confirmed_logo.png");
+	
+	
+}
+
+#verified_header{
+	
+	background-image:url("../../files/web_images/verified_logo.png");
+
+	
+}
+
+#delivered_header{
+	
+	background-image:url("../../files/web_images/delivered_logo.png");
+	
+	
+}
+
+.delivered_field,.verified_field,.confirmed_field,.open_field,#delivered_header,#verified_header,#confirmed_header,#open_header{
+	width:20px;
+	background-repeat:no-repeat;
+	background-position:center center;
+	height:13px;
+}
+
+#amount_header,.amount_field{
+	width:110px;
+}
+
+#name_header,.name_field{
+	margin-right:410px;
+	margin-left:420px;
+}

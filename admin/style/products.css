@@ -1,0 +1,118 @@
+#products_menu{
+	color:#ffffff;
+	background-color:#292929;
+}
+
+#action{
+	width:100px;
+}
+
+#visibility{
+	width:50px;
+}
+
+li{
+	max-height:65px;
+}
+
+.sidebar_menu_selected{
+	background-color:#333333;
+	
+	color:#ffffff;
+}
+
+.sidebar_menu_selected:hover{
+	background-color:#333333;
+	color:#ffffff;
+	
+}
+
+.fill_container_sidebar{
+	
+	padding:0px;
+	float:left;
+	z-index:8;
+	position:relative;
+	top:-1px;
+	
+}
+
+.admin_tab_group{
+	z-index:11;
+	position:relative;
+	
+}
+
+
+
+.admin_table{
+	margin-left:0px;
+	margin-right:0px;
+	
+	min-width:600px;
+}
+
+#admin_header{
+	
+	min-width:1024px;
+	
+}
+
+.admin_header_row{
+	min-width:600px;
+}
+
+#footer_bar{
+	min-width:1024px;
+}
+
+.admin_panel{
+	min-width:600px;
+	background-color:#fafafa;
+	border-top:0px;
+}
+
+#button_panel_menu_right{
+	
+	margin-right:10px;
+}
+
+
+/*273*/
+#page_title_bar_fill{
+	min-width:960px;
+}
+.main_body{
+	min-width:836px;
+}
+
+.admin_panel{
+	max-height:41px;
+	clear:both;
+}
+
+/*check 50, every field+20*/
+#type_code_header,.type_code_field{
+	width:120px;
+}
+
+#type_visibility_header,.type_visibility_field{
+	width:50px;
+}
+
+#type_price_header,.type_price_field{
+	width:120px;
+}
+
+#type_name_header,.type_name_field{
+	width:100px;
+}
+
+.product_name_field:hover{
+	opacity:0.5;
+}
+
+#product_name_header,.product_name_field{
+	margin-right:330px;
+	margin-left:190px;
+}

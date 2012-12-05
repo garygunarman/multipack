@@ -1,0 +1,45 @@
+body { 
+	background: url(../files/uploads/home/img_main-banner.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+footer {
+    font-family: 'bell_gothic_std_lightregular';
+    position: fixed;
+    bottom: 0px;
+    font-size: 0.75em;
+    text-align: center;
+    width: 100%;
+    min-width: 550px;
+    margin: auto;
+}
+
+footer ul li {
+    display: inline;
+    color: #999;
+    padding: 0 10px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #999;
+    transition: color .25s;
+    -moz-transition: color .25s;
+    -webkit-transition: color .25s;
+    -o-transition: color .25s;
+}
+
+footer a:hover {
+    color: #000;
+    transition: color .25s;
+    -moz-transition: color .25s;
+    -webkit-transition: color .25s;
+    -o-transition: color .25s;
+}
+
+footer span {
+    color: #ccc;
+}

@@ -1,0 +1,15 @@
+#products_menu{
+	color:#ffffff;
+	background-color:#292929;
+}
+
+#designer_name_header,.designer_name_field{
+	margin-left:50px;
+	
+}
+
+.designer_name_field:hover{
+	opacity:0.5;
+}
+
+

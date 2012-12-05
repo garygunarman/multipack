@@ -1,0 +1,46 @@
+#general_menu{
+	color:#ffffff;
+}
+
+.table_title{
+	float:left;
+	font-family:"Myriad Pro";
+	font-size:14px;
+	margin-left:32px;
+	margin-right:32px;
+	min-width:560px;
+	text-align:left;
+	margin-top:10px;
+}
+
+.view_all_link:link,.view_all_link:visited,.view_all_link:hover,.view_all_link:active{
+	font-size:11px;
+	color:#999999;
+}
+
+.view_all_link:hover{
+	text-decoration:underline;
+}
+
+.name2_field:hover{
+	text-decoration:underline;
+}
+.email2_field:hover{
+	text-decoration:underline;
+}
+
+#email2_header,.email2_field{
+	width:172px;
+}
+
+#name2_header,.name2_field{
+	margin-left:230px;
+	margin-right:508px;
+}
+
+#name_header,.name_field{
+	
+	margin-left:230px;
+	margin-right:400px;
+	
+}

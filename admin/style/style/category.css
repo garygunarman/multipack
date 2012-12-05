@@ -1,0 +1,15 @@
+li{
+	max-height:65px;
+}
+
+.sidebar_menu_selected{
+	background-color:#ffffff;
+	font-weight:bold;
+	color:#666666;
+}
+
+.sidebar_menu_selected:hover{
+	background-color:#f0f0f0;
+	font-weight:bold;
+	
+}
